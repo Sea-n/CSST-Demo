@@ -1,3 +1,4 @@
-for i in range(5):
-    print(i)
+n = int(input())
 
+for i in range(n):
+    print(i)
